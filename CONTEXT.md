@@ -50,3 +50,27 @@ _Avoid_: Harmless politics, conflict-free politics
 **Self-owned agency**:
 A player's ability to pursue consequential aims and exercise leverage grounded in their own position, including after victory becomes unlikely. It is neither charity from leading players nor influence whose only purpose is choosing the winner.
 _Avoid_: Consolation objective, kingmaker power
+
+**Evidence ceiling**:
+The strongest kind and scope of claim an evidence source can support. Comparative research can support plausibility, precedents, and failure modes; an isolated probe can support only a local mechanism claim; an interaction sandbox can support only claims about its tested causal cluster; a representative-table session can support bounded social or experiential claims; and only an integrated test can support whole-session integration claims. Evidence from one level does not substitute for another.
+_Avoid_: Evidence ladder, proof level
+
+**Claim confidence**:
+An assessment of evidential support recorded as conjecture, promising, provisionally supported, or supported. A conjecture has no direct matching evidence; a promising claim has indirect or narrower evidence; a provisionally supported claim has direct evidence at its stated scope with counterevidence addressed; and a supported claim has convergent evidence at its stated scope, including representative and integrated testing where the claim requires them. It is distinct from the claim's disposition and integration status.
+_Avoid_: Certainty, proof
+
+**Claim disposition**:
+The current treatment of a claim when the evidence is mixed, has weakened it, or has retired it. Disposition records what happened to the claim; it is not a confidence level.
+_Avoid_: Confidence
+
+**Integration status**:
+The scope at which a claim has been tested, recorded as isolated, cluster-tested, or integrated. High confidence in an isolated claim does not imply that the effect survives interaction with a whole game.
+_Avoid_: Confidence, completeness
+
+**Representative table**:
+A participating group of friends with ongoing prior relationships, meaningful contest and relationship motives that may coexist within the same players, and willingness to engage with political strategy. Evidence from one representative table remains specific to that group and protocol; broader transfer requires convergence across materially different representative tables.
+_Avoid_: Typical players, competitive-versus-casual group
+
+**Next discriminator**:
+The next observation or test capable of materially separating a claim from its strongest counterevidence or alternative explanation. Every load-bearing claim below supported names one.
+_Avoid_: Next step, more testing
