@@ -20,7 +20,7 @@ Conditional cooperation entered by each member as a means toward their own perso
 _Avoid_: Team, partnership
 
 **Predetermined alliance**:
-Cooperation kept intact by an out-of-game relationship or pre-game commitment regardless of the evolving game state. It is an anti-goal because it displaces politics and the victory-seeking norm.
+Cooperation kept intact by an out-of-game relationship or pre-game commitment regardless of the evolving game state; it is an anti-goal because it displaces politics and the victory-seeking norm. At the table, it is inferred from repeated state-insensitive cooperation despite credible personal-victory alternatives and no in-game commitment explaining the refusals; one loyalty-preserving choice is not enough.
 _Avoid_: Friendship pact, permanent alliance
 
 **Personal victory**:
@@ -47,9 +47,25 @@ _Avoid_: Perfect optimization, win at all costs
 Political play that gives contest and relationship motives legitimate, consequential agency and understandable social signals. It reduces avoidable resentment and disengagement without promising comfort, equal outcomes, or freedom from interpersonal friction.
 _Avoid_: Harmless politics, conflict-free politics
 
+**Target-table signal**:
+A lived observation from a group the game is intended to serve. It has high local decision relevance but low generality, so it identifies something to investigate without establishing a general causal diagnosis.
+_Avoid_: Universal finding, safely ignorable anecdote
+
+**Constrained discretion**:
+A structure in which public game state makes conflict reasonable while the acting player retains negotiable choices over how, when, and at what price to act—and remains responsible for those choices.
+_Avoid_: Forced aggression, objective cover
+
+**Causal legibility**:
+The table's ability to reconstruct why an outcome occurred, which game conditions shaped it, and which player choices authored its consequences. It is distinct from whether the outcome was predictable or delightful.
+_Avoid_: Predictability, justification
+
 **Self-owned agency**:
 A player's ability to pursue consequential aims and exercise leverage grounded in their own position, including after victory becomes unlikely. It is neither charity from leading players nor influence whose only purpose is choosing the winner.
 _Avoid_: Consolation objective, kingmaker power
+
+**Strategic reengagement**:
+Formation of a consequential, self-owned plan after a prior victory path becomes implausible or consequential change invalidates the previous plan. It does not require continued belief in the original victory path.
+_Avoid_: False hope, mere persistence
 
 **Evidence ceiling**:
 The strongest kind and scope of claim an evidence source can support. Comparative research can support plausibility, precedents, and failure modes; an isolated probe can support only a local mechanism claim; an interaction sandbox can support only claims about its tested causal cluster; a representative-table session can support bounded social or experiential claims; and only an integrated test can support whole-session integration claims. Evidence from one level does not substitute for another.
