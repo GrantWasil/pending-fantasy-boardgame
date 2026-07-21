@@ -142,3 +142,23 @@ _Avoid_: Complexity justification, rules count
 **Joint attention**:
 The table's shared awareness while a consequential outcome resolves. Information may remain private beforehand, but outcomes that change relationship terms or other players' possibilities resolve under joint attention.
 _Avoid_: Perfect information, simultaneous private resolution
+
+**Load-bearing fantasy premise**:
+A bounded impossible premise that, in a particular implementation, cannot be removed without rewriting state transitions, roles, or relationships and repeatedly changes player responses through ontology, capabilities, information, geography, value, world processes, or relationship topology. Rewrite dependence and changed responses are separately evidence-graded artifact and behavioral claims, not intrinsic properties of a setting pitch.
+_Avoid_: Theme, strong theme, thematic integration
+
+**Fantasy enabling grammar**:
+The contribution a fantasy rendering makes when its fictional identity or world logic lets players learn or infer asymmetric capabilities, limits, and exceptions. It may reduce complexity cost but is distinct from whether a fantasy premise is load-bearing.
+_Avoid_: Theme, load-bearing fantasy premise, genre fit
+
+**Structurally portable**:
+A fantasy implementation whose state transitions, roles, and relationships can be preserved in a steelmanned alternative rendering. The verdict is an evidence-graded claim about an implementation artifact and does not imply that its fantasy rendering lacks enabling or experiential value.
+_Avoid_: Decorative, theme pasted on
+
+**Experientially inert**:
+A fantasy rendering for which sufficiently sensitive, predeclared representative-table measures find no material effect on learning, inference, or promised epic-channel traces at the tested scope. An insensitive or underpowered protocol supports only no detected effect, not experiential inertness.
+_Avoid_: No detected effect, structurally portable
+
+**Decorative fantasy**:
+A fantasy rendering that is both structurally portable and experientially inert at their explicitly stated scopes and confidence grades.
+_Avoid_: Structurally portable, enabling grammar, framing
