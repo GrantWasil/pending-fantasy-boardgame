@@ -91,6 +91,10 @@ _Avoid_: Typical players, competitive-versus-casual group
 The next observation or test capable of materially separating a claim from its strongest counterevidence or alternative explanation. Every load-bearing claim below supported names one.
 _Avoid_: Next step, more testing
 
+**Evidence dependency**:
+A conjunct-scoped interpretability relationship in which a downstream observation can bear on a claim only when a predeclared minimum upstream condition holds. Upstream failure makes that observation ambiguous rather than counterevidence, while upstream success provides no evidential support downstream.
+_Avoid_: Prerequisite claim, blocking evidence
+
 **Epic experience**:
 A conjectured four-channel experience evaluated across a predeclared epic arc, in which emotional and political scale arise from the core play structure while narrative and spectacular scale may be concentrated into a few consequence-dense public moments. Each channel must leave its own operational trace, although one event may satisfy several channels.
 _Avoid_: Long game, large game, cinematic game
