@@ -90,3 +90,55 @@ _Avoid_: Typical players, competitive-versus-casual group
 **Next discriminator**:
 The next observation or test capable of materially separating a claim from its strongest counterevidence or alternative explanation. Every load-bearing claim below supported names one.
 _Avoid_: Next step, more testing
+
+**Epic experience**:
+A conjectured four-channel experience evaluated across a predeclared epic arc, in which emotional and political scale arise from the core play structure while narrative and spectacular scale may be concentrated into a few consequence-dense public moments. Each channel must leave its own operational trace, although one event may satisfy several channels.
+_Avoid_: Long game, large game, cinematic game
+
+**Epic arc**:
+A bounded evaluation container declared before play over which all four epic channels are promised; it may occupy one sitting or a scheduled sequence. A multi-sitting arc declares a per-sitting floor, and abandonment is failure of the promised arc rather than neutral missing evidence.
+_Avoid_: Lucky stretch, retrospective arc, campaign length
+
+**Per-sitting floor**:
+The minimum worthwhile experience a multi-sitting epic arc promises in each individual sitting even when the larger arc has not yet resolved.
+_Avoid_: Complete epic experience, session quota
+
+**Emotional scale**:
+Rule support that makes consequential, vulnerable commitment available and probable for every player, with consequences that causally reshape their aims and permit strategic reengagement through self-owned agency.
+_Avoid_: Excitement, high stakes, close score
+
+**Political scale**:
+Public structure that makes changes to cooperation, opposition, or leverage credible and priced, producing at least one observable change in a relationship's terms whose cause the table can reconstruct. A nonbinding commitment counts only when breaking it carries a legible in-game or structural cost.
+_Avoid_: Permission to negotiate, mandatory betrayal
+
+**Narrative scale**:
+Whole-game causal legibility through which the table can reconstruct how an opening political order was decisively transformed or decisively contested and held, and which authored choices caused that outcome.
+_Avoid_: Lore volume, elapsed fictional time
+
+**Spectacular scale**:
+A shared material-state change witnessed by the table as it happens that alters what multiple players can do or that the table spontaneously marks. It is distinct from narrative scale, which is reconstructed afterward.
+_Avoid_: Component quantity, private engine growth, dramatic appearance
+
+**Political order**:
+The legible configuration of relationships, institutions, and power dependencies that players encounter at the opening of play and may transform or defend.
+_Avoid_: Setup, status quo
+
+**Accumulated history**:
+Meaning created as persistent decisions and systems repeatedly change one another's interpretation over the course of play. It is distinct from elapsed time or fictional chronology.
+_Avoid_: Long runtime, backstory
+
+**Consequence density**:
+The amount of emotional, political, narrative, and spectacular work concentrated into a decision or public event. It may compress accumulated history only to the extent that its effects remain causally legible.
+_Avoid_: Complexity, swinginess
+
+**Protected bargaining structure**:
+Rules, timing, or public state that gives players visible and consequential opportunities to negotiate and commit around shared pressure points.
+_Avoid_: Permission to talk, mandatory negotiation
+
+**Complexity budget**:
+The fixed total teaching, attention, and evaluation load available to the complete designed experience. A structure's individual usefulness does not expand this aggregate ceiling.
+_Avoid_: Complexity justification, rules count
+
+**Joint attention**:
+The table's shared awareness while a consequential outcome resolves. Information may remain private beforehand, but outcomes that change relationship terms or other players' possibilities resolve under joint attention.
+_Avoid_: Perfect information, simultaneous private resolution
