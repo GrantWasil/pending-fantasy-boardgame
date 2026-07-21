@@ -24,8 +24,20 @@ Cooperation kept intact by an out-of-game relationship or pre-game commitment re
 _Avoid_: Friendship pact, permanent alliance
 
 **Personal victory**:
-A rules-recognized winning outcome achieved by the player. It may eventually be exclusive or shared, but another player's victory does not substitute for it.
+A rules-recognized winning outcome achieved by the player. It may be ranked, exclusive, or shared, but another player's victory does not substitute for it.
 _Avoid_: Allied victory, preferred winner
+
+**Tiered personal victory**:
+A publicly known structure with ranked personal-victory classes whose eligibility separates at a later qualification threshold. The classes may follow distinct paths while remaining part of one shared contest.
+_Avoid_: Losers bracket, consolation bracket
+
+**Ascendant victory**:
+The higher-ranked class of tiered personal victory, pursued by every player until qualification separates the victory classes.
+_Avoid_: Main victory, real victory
+
+**Legacy victory**:
+A lower-ranked but genuine personal victory available to nonqualifiers through a distinct path grounded in earlier shared play. It is earned rather than automatically granted for missing Ascendant qualification.
+_Avoid_: Consolation victory, best loser
 
 **Victory-seeking norm**:
 The expectation that every player remains directionally committed to their personal victory, allowing loyalty, mercy, drama, and risk preference to shape imperfectly optimized choices. It does not require choosing the strongest calculable move every time.
